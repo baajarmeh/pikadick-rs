@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["RuleError","Crate Error Type"]],"fn":[["build_search_query","Utility function to build a search query."]],"struct":[["Client","A Rule34 Client"],["Html","An HTML tree."],["Post","A Post page"],["SearchResult","Results for a search"]],"type":[["RuleResult","The crate Result Type"]]});
